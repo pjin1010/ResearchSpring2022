@@ -14,5 +14,5 @@ Hurricane and Tropical Cyclone/Storm models/plots of precipitation with the even
 5. Comparisons of different forecasts of the same storm (via visual consideration of superimposed polar plots of storm precipitation)
 
 (finalSpring2022.ipynb)
-6. Plots of central pressure vs. wind speed (both for storm invest93s, and all storms)
-7. Analysis of storm batsirai08s (all forecast tracks, central pressure as a function of forecast target date, average storm-centered rainfall rate as a function of radius, accumulated rainfall on lat-lon plot)
+1. Plots of central pressure vs. wind speed (both for storm invest93s, and all storms)
+2. Analysis of storm batsirai08s (all forecast tracks, central pressure as a function of forecast target date, average storm-centered rainfall rate as a function of radius, accumulated rainfall on lat-lon plot)
